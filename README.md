@@ -4,7 +4,7 @@
 
 ## Source
 
-See [deasilworks/rpi-omx](https://github.com/deasilworks/rpi-omx-node) on Github.
+See [deasilworks/rpi-omx-node](https://github.com/deasilworks/rpi-omx-node) on Github.
 
 ## LICENSE
 
